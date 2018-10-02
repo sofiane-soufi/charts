@@ -1,4 +1,4 @@
-# MongoDB Helm Chart
+# MongoDB Helm Chart - TS
 
 ## Prerequisites Details
 * Kubernetes 1.8+ with Beta APIs enabled.
